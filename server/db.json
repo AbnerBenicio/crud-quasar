@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "author": "Abner Benicio",
+      "content": "a content"
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "author": "Abner Benicio",
+      "content": "a content"
+    },
+    {
+      "id": "3",
+      "title": "another title",
+      "author": "Abner Benicio",
+      "content": "a content"
+    }
+  ]
+}
